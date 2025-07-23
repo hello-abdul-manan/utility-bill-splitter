@@ -7,7 +7,7 @@ A beginner-friendly Python CLI tool to help roommates split utility bills equall
 
 ## 📷 Demo
 <p align="center">
-  <img src="output.png" width="600" alt="Demo Screenshot">
+  <img src="output_pro.png" width="600" alt="Demo Screenshot">
 </p>
 
 ## 🛠 Technologies Used
