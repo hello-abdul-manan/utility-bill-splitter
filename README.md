@@ -6,9 +6,7 @@ A beginner-friendly Python CLI tool to help roommates split utility bills equall
 - Split bills equally among roommates
 
 ## 📷 Demo
-<p align="center">
-  <img src="output_pro.png" width="600" alt="Demo Screenshot">
-</p>
+<img width="451" height="277" alt="Image" src="https://github.com/user-attachments/assets/86e14b4c-2613-42e2-9f09-e79cb6efac52" />
 
 ## 🛠 Technologies Used
 - Python (no external libraries)
