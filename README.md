@@ -2,13 +2,16 @@
 
 A beginner-friendly Python CLI tool to help roommates split utility bills equally. This project is ideal for practicing Python basics like user input, variables, data types, and basic math operations.
 
-## 🔧 Features
+## Features
 - Split bills equally among roommates
 
 ## 📷 Demo
-<img width="451" height="277" alt="Image" src="https://github.com/user-attachments/assets/86e14b4c-2613-42e2-9f09-e79cb6efac52" />
+<p align="center">
+  <img src="https://i.postimg.cc/gJT4TcZ3/output-pro.png" width="400" alt="Project Screenshot">
+</p>
 
-## 🛠 Technologies Used
+
+## Technologies Used
 - Python (no external libraries)
 
 ## ▶️ How to Run
@@ -24,12 +27,12 @@ cd basic-fuel-cost-calculator/src
 python fuel_calculator.py
 ```
 
-## 👨‍💻 Author
+## Author
 Abdul Manan Maqsood  
 [GitHub](https://github.com/hello-abdul-manan)  
 [LinkedIn](https://www.linkedin.com/in/helloabdulmanan/)
 
-## 📄 License
+## License
 Licensed under the [MIT License](LICENSE)
 
 ---
