@@ -24,7 +24,7 @@ git clone https://github.com/hello-abdul-manan/basic-fuel-cost-calculator
 cd basic-fuel-cost-calculator/src
 
 # Step 3: Run the program
-python fuel_calculator.py
+python main.py
 ```
 
 ## Author
